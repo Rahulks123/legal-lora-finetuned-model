@@ -1,0 +1,32 @@
+### Question:
+What are the essential elements of a valid contract?
+
+### Answer:
+According to the decision in the case of Varghese v Waverly Municipal Council [1983] HCA 38, a valid contract can be formed when the following elements occur: there is a meeting of the minds; there is an agreement; there is consideration; and it is capable of legal effect. These elements must be established in a clear and unambigu
+
+### Question:
+Explain the concept of tort.
+
+### Answer:
+Tort is a term used in Australian civil law and refers to a legal wrong or injury caused to another. The word is derived from the Latin tortum, which meant "something wrongdone." This term is used in courts of law to refer to an aggravated or oppressive action, which has been performed with intention or ill will to the wronged person. In Australian law, as in
+
+### Question:
+What does mens rea mean?
+
+### Answer:
+Mens rea is Latin for “of the mind.” In English law, it refers to the intention or purpose of the actor as one of the elements of a criminal charge. A person’s mens rea is also used in the common law context with reference to criminal responsibility. A person’s mens rea is the necessary ingredient for criminal liability and must be proved by a preponder
+
+### Question:
+What are the remedies for breach of contract?
+
+### Answer:
+In the case of McDonald v Beerfield [2022] NSWCATAP 144, it was outlined that remedies for breach of contract can include:
+
+1. Damages: damages may be awarded on the terms of the agreement in accordance with [22CQB].[1] Alternatively, the failure of
+
+### Question:
+Is electronic signature legally valid?
+
+### Answer:
+According to the decision in R v Chaudry [2020] NSWDC 265, electronic signatures are legally valid in Australia. This issue was first raised in 2004 during the implementation of electronic court filings in New South Wales. From 2004 onwards, documents filed in courts were emailed instead of delivered physically
+
